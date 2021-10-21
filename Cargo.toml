@@ -1,7 +1,10 @@
 [package]
+edition = "2018"
 name = "wayland-tablet"
 version = "0.1.0"
-edition = "2018"
+authors = ["Genevive <gen@nyble.dev>"]
+description = "Graphics tablets on Wayland"
+license = "ISC"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
